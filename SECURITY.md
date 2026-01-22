@@ -12,7 +12,7 @@ since it contains student information. If you discover a security vulnerability,
    - A description of the vulnerability
    - Steps to reproduce the issue
    - Potential impact on student data or website functionality
-   - Suggested fix (if you have one)
+   - Suggested fix
 1. Email the IT Club faculty advisor at techsupport@mergingtonhigh.example.edu and inform them you have made a report. **Do not** include any vulnerability details.
 
 ## Response Timeline
